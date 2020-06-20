@@ -1,0 +1,8 @@
+Python(3.7)
+Libraries:- Chatterboat,Pandas,flask.
+
+
+AWS Account
+RAM:-1 GB
+Hard Disk :- 8 GB
+O.S :- Ubutnu 
